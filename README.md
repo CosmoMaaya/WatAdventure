@@ -24,10 +24,3 @@ Existing features:
 * Consumable Items
 * Currency
 * CLI for cheaters ;)
-* **Multiplayer**
-## What's new
-Latest development adds multiplayer feature!
-
-The integrated local server uses `Socket` to establish communication between client and server, and implements 
-a custom TCP/IP protocol for data transmission. Before you host a local game, make sure to get `Server.java` 
-running first.
